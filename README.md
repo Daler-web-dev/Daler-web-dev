@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Daler-web-dev I am a fronted react and vue developer
-- 👀 Actualy I am interested in backend 
--     How to reach me [my telegram](https://t.me/ravshanov021)
+- 👋 Hi, I’m Daler Sharifkulov, a fronted react and vue developer
+- 👀 Eagerly learning the art of backend 
+-   Reach me at [@ravshanov021](https://t.me/ravshanov021)
