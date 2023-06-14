@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Daler Sharifkulov, a fronted react and vue developer
+- 👋 Hi, I’m Daler Sharifkulov, a fronted react developer
 - 👀 Eagerly learning the art of backend 
 -   Reach me at [@ravshanov021](https://t.me/ravshanov021)
